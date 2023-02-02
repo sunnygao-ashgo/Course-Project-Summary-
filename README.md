@@ -1,4 +1,4 @@
-# Project background
+# CBRE Project background
 
 CBRE has thousands of pictures of flexible spaces around the globe and wants to better match the demand and supply based on the understanding of clients’ preferences on style.
 
